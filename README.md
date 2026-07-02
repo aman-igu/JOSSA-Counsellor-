@@ -101,7 +101,7 @@ git clone https://github.com/aman-igu/JOSSA-Counsellor-.git
 ### Backend
 
 ```bash
-cd jee_counselling
+cd backend
 
 npm install
 
